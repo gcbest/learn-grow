@@ -12,6 +12,7 @@
   },
   "private": true,
   "dependencies": {
+    "@analytics/google-analytics": "^1.0.3",
     "@next-auth/prisma-adapter": "^1.0.3",
     "@nrwl/next": "14.5.6",
     "@prisma/client": "^4.0.0",
@@ -19,6 +20,7 @@
     "@trpc/next": "^9.25.3",
     "@trpc/react": "^9.25.3",
     "@trpc/server": "^9.25.3",
+    "analytics": "^0.8.1",
     "core-js": "^3.6.5",
     "next": "12.2.3",
     "next-auth": "^4.9.0",
@@ -28,6 +30,7 @@
     "regenerator-runtime": "0.13.7",
     "superjson": "^1.9.1",
     "tslib": "^2.3.0",
+    "use-analytics": "^0.0.5",
     "zod": "^3.17.3"
   },
   "devDependencies": {

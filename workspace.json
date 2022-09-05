@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "today-i-learned": "apps/today-i-learned",
-    "today-i-learned-e2e": "apps/today-i-learned-e2e"
+    "today-i-learned-e2e": "apps/today-i-learned-e2e",
+    "user-analytics": "libs/user-analytics"
   }
 }
